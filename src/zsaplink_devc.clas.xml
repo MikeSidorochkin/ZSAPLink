@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>SapLink Class Installer</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>CLASS_CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CLASS_CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>LOAD_OBJ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Load IF_Package</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>OBJ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Interface for Packages</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>OBJ_2_STRUCT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Object fields to Structure fierlds</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>SCOMPKDTLN_MAPPING</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Mapping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>TS_FIELD_MAP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Field map</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_DEVC</CLSNAME>
+     <CMPNAME>TT_FIELD_MAP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Mapping</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

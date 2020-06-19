@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZSAPLINK_ENH_SPOT</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>SAPlink Enhancement Spot Plug-in</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_ENH_SPOT</CLSNAME>
+     <CMPNAME>BADIDEF_TOOL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Enhancement Tool BAdI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_ENH_SPOT</CLSNAME>
+     <CMPNAME>BADIDEF_TOOL</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Enhancement Tool BAdI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_ENH_SPOT</CLSNAME>
+     <CMPNAME>GET_IMPLEMENTATIONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read Enhancement Implementations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZSAPLINK_ENH_SPOT</CLSNAME>
+     <CMPNAME>GET_IMPLEMENTATIONS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Read Enhancement Implementations</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
